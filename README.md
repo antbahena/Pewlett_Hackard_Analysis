@@ -5,4 +5,7 @@ In this project we used SQL to create and combine data bases into new ones to sh
 
 ## Unique Titles Table (Results) 
 ![Unique Titles](Unique_Titles.png)
+We were able to add the table
+
+## Retiring Titles 
 
