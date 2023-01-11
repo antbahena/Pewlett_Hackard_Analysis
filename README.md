@@ -8,4 +8,9 @@ In this project we used SQL to create and combine data bases into new ones to sh
 We were able to add the table
 
 ## Retiring Titles 
+![Retiring_Titles](Retiring_Titles.png)
+Table for the titles that are retiring
 
+## Mentorship Eligibilty
+![mentorship_eligibilty](mentorship_eligibilty.png)
+EMployees who are able to mentor
